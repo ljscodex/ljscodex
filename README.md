@@ -51,5 +51,12 @@ Here are some ideas to get you started:
 <ul>
   <li><a href="https://medium.com/@regondaakhil1509/getting-started-with-react-a-beginners-guide-to-setting-up-your-first-application-a6d8a1ae414](https://medium.com/@ljscodex/navigating-stripe-integration-challenges-lessons-from-my-journey-4eefbb8c1c62)"><i>Navigating Stripe Integration Challenges: Lessons from My Journey</i></a></li>
   <li><a href="https://medium.com/@regondaakhil1509/pushing-your-first-react-app-to-github-a-step-by-step-guide-f7b592e67658](https://medium.com/@ljscodex/understanding-and-managing-technical-deb-304bd0d90a43"><i>Understanding and Managing Technical Debt</i></a></li>
-  <li><a href="https://medium.com/@regondaakhil1509/the-ultimate-checklist-for-starting-a-react-project-best-practices-and-tips-b73337b9b173](https://medium.com/@ljscodex/entity-framework-performance-optimization-techniques-b1962937db8f)"><i>Understanding and Managing Technical Debt</i></a></li>
+  <li><a href="https://medium.com/@regondaakhil1509/the-ultimate-checklist-for-starting-a-react-project-best-practices-and-tips-b73337b9b173](https://medium.com/@ljscodex/entity-framework-performance-optimization-techniques-b1962937db8f)"><i>UEntity Framework Performance Optimization Techniques</i></a></li>
 </ul>
+
+
+<h3>My GitHub contributions summary</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your_username&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+![Y
