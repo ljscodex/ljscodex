@@ -82,5 +82,5 @@ Here are some ideas to get you started:
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ljscodex&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljscodex)
 
